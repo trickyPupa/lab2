@@ -1,14 +1,15 @@
-package moves.furfrou;
+package moves.oddish;
+
 import ru.ifmo.se.pokemon.*;
 
-public class Charm extends StatusMove {
-    public Charm() {
-        super(Type.FAIRY, 0, 100);
+public class StunSpore extends StatusMove {
+    public StunSpore() {
+        super(Type.GRASS, 0, 75);
     }
 
     @Override
     protected void applyOppEffects(Pokemon pok) {
-        pok.setMod(Stat.ATTACK, -2);
+        Effect.paralyze(pok);
     }
 
     @Override

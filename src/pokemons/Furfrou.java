@@ -1,9 +1,10 @@
 package pokemons;
+
 import moves.furfrou.*;
 import ru.ifmo.se.pokemon.*;
 
-public class Furfrou extends Pokemon{
-    public Furfrou(String name, int lvl){
+public class Furfrou extends Pokemon {
+    public Furfrou(String name, int lvl) {
         super(name, lvl);
 
         setType(Type.NORMAL);
