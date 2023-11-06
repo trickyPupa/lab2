@@ -11,4 +11,10 @@ public class AerialAce extends PhysicalMove {
     protected boolean checkAccuracy(Pokemon att, Pokemon def) {
         return true;
     }
+
+    @Override
+    protected String describe(){
+        String[] verb = this.getClass().toString().split("\\.");
+        return "does " + verb[verb.length - 1];
+    }
 }

@@ -11,4 +11,10 @@ public class Agility extends PhysicalMove {
     protected void applySelfEffects(Pokemon pok){
         pok.setMod(Stat.SPEED, 2);
     }
+
+    @Override
+    protected String describe(){
+        String[] verb = this.getClass().toString().split("\\.");
+        return "does " + verb[verb.length - 1];
+    }
 }
