@@ -1,14 +1,16 @@
-package moves.furfrou;
+package moves.nincada;
+
 import ru.ifmo.se.pokemon.*;
 
-public class Charm extends StatusMove {
-    public Charm() {
-        super(Type.FAIRY, 0, 100);
+public class Swagger extends StatusMove {
+    public Swagger() {
+        super(Type.NORMAL, 0, 85);
     }
 
     @Override
     protected void applyOppEffects(Pokemon pok) {
-        pok.setMod(Stat.ATTACK, -2);
+        pok.confuse();
+        pok.setMod(Stat.ATTACK, 2);
     }
 
     @Override

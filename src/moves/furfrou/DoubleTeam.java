@@ -14,6 +14,6 @@ public class DoubleTeam extends StatusMove{
     @Override
     protected String describe(){
         String[] verb = this.getClass().toString().split("\\.");
-        return "does" + verb[verb.length - 1];
+        return "does " + verb[verb.length - 1];
     }
 }

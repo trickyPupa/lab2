@@ -1,14 +1,15 @@
-package moves.furfrou;
+package moves.nincada;
+
 import ru.ifmo.se.pokemon.*;
 
-public class Charm extends StatusMove {
-    public Charm() {
-        super(Type.FAIRY, 0, 100);
+public class AerialAce extends PhysicalMove {
+    public AerialAce(){
+        super(Type.FLYING, 60, 100);
     }
 
     @Override
-    protected void applyOppEffects(Pokemon pok) {
-        pok.setMod(Stat.ATTACK, -2);
+    protected boolean checkAccuracy(Pokemon att, Pokemon def) {
+        return true;
     }
 
     @Override

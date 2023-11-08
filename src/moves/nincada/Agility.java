@@ -1,14 +1,15 @@
-package moves.furfrou;
+package moves.nincada;
+
 import ru.ifmo.se.pokemon.*;
 
-public class Charm extends StatusMove {
-    public Charm() {
-        super(Type.FAIRY, 0, 100);
+public class Agility extends PhysicalMove {
+    public Agility() {
+        super(Type.PSYCHIC, 0, 0);
     }
 
     @Override
-    protected void applyOppEffects(Pokemon pok) {
-        pok.setMod(Stat.ATTACK, -2);
+    protected void applySelfEffects(Pokemon pok){
+        pok.setMod(Stat.SPEED, 2);
     }
 
     @Override
