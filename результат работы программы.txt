@@ -1,0 +1,101 @@
+Furfrou Альфонс из команды зеленых вступает в бой!
+Oddish Амадей из команды белых вступает в бой!
+Furfrou Альфонс does Charm. 
+Oddish Амадей уменьшает атаку.
+
+Oddish Амадей промахивается
+
+Furfrou Альфонс does SandAttack. 
+Oddish Амадей уменьшает точность.
+
+Oddish Амадей промахивается
+
+Furfrou Альфонс does Charm. 
+Oddish Амадей уменьшает атаку.
+
+Oddish Амадей does StunSpore. 
+Furfrou Альфонс парализован
+
+Oddish Амадей does StunSpore. 
+
+
+Furfrou Альфонс does TakeDown. 
+Критический удар!
+Oddish Амадей теряет 13 здоровья.
+Furfrou Альфонс теряет 3 здоровья.
+Oddish Амадей теряет сознание.
+Ninjask Альберт из команды белых вступает в бой!
+Ninjask Альберт does Absorb. 
+Furfrou Альфонс теряет 3 здоровья.
+Ninjask Альберт восстанавливает 2 здоровья.
+
+
+Furfrou Альфонс промахивается
+
+Ninjask Альберт does AerialAce. 
+Furfrou Альфонс теряет 6 здоровья.
+
+Furfrou Альфонс промахивается
+
+Ninjask Альберт промахивается
+
+Furfrou Альфонс does SandAttack. 
+Ninjask Альберт уменьшает точность.
+
+Ninjask Альберт does Absorb. 
+Furfrou Альфонс теряет 3 здоровья.
+Ninjask Альберт восстанавливает 2 здоровья.
+Furfrou Альфонс теряет сознание.
+Gloom Альфред из команды зеленых вступает в бой!
+Ninjask Альберт does Swagger. 
+Gloom Альфред увеличивает атаку.
+
+Gloom Альфред does StunSpore. 
+Ninjask Альберт парализован
+
+Ninjask Альберт does Absorb. 
+Критический удар!
+Gloom Альфред теряет 2 здоровья.
+Ninjask Альберт восстанавливает 1 здоровья.
+
+Gloom Альфред промахивается
+
+Gloom Альфред растерянно попадает по себе. 
+Gloom Альфред теряет 5 здоровья.
+
+
+Ninjask Альберт does Swagger. 
+Gloom Альфред увеличивает атаку.
+
+Gloom Альфред промахивается
+
+Gloom Альфред растерянно попадает по себе. 
+Gloom Альфред теряет 5 здоровья.
+
+
+Ninjask Альберт does Swagger. 
+Gloom Альфред увеличивает атаку.
+
+Gloom Альфред does StunSpore. 
+
+Ninjask Альберт does AerialAce. 
+Критический удар!
+Gloom Альфред теряет 16 здоровья.
+Gloom Альфред теряет сознание.
+Nincada Артур из команды зеленых вступает в бой!
+Nincada Артур does Absorb. 
+Ninjask Альберт теряет 4 здоровья.
+Nincada Артур восстанавливает 2 здоровья.
+
+
+Ninjask Альберт промахивается
+
+Nincada Артур does Swagger. 
+Ninjask Альберт увеличивает атаку.
+
+Ninjask Альберт does AerialAce. 
+Критический удар!
+Nincada Артур теряет 25 здоровья.
+Nincada Артур теряет сознание.
+В команде зеленых не осталось покемонов.
+Команда белых побеждает в этом бою!
